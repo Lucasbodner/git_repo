@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 * 3 abricots
 * 1 Salade
+=======
+* 3 tomates
+* 2 abricots
+* 1 pomme
+* 4 bananes
+* 4 cerises
+* 3 steack
+>>>>>>> bbq
