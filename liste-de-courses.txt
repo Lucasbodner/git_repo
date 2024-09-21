@@ -3,3 +3,4 @@
 * 1 pomme
 * 4 bananes
 * 4 cerises
+* 3 steack
